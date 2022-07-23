@@ -1,0 +1,7 @@
+.bg-gradnt {
+    background-image: linear-gradient(90deg, blue, purple);
+}
+
+.textSize {
+    font-size: 70px;
+}
